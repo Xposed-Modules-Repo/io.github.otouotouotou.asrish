@@ -1,0 +1,5 @@
+Asrish is an LSPosed module that changes settings per app: orientation, fullscreen,
+font scale, DPI, smallest width, per-app language, layout direction to LTR,
+screenshot control, keep screen on, show on lock screen, ongoing / insistent /
+mute notification controls, block clipboard reads, mute, and exclude from
+recents. Android 11 or later. Apache-2.0.
